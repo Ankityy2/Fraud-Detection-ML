@@ -1,5 +1,7 @@
 # Fraud-Detection-ML
-Machine Learning based Fraud Detection system using Random Forest on 6.3M financial transactions with imbalance handling and performance optimization.
+🚀 A production-style fraud detection system built using Random Forest on 6.3 million financial transactions.
+
+The project focuses on handling severe class imbalance and optimizing fraud recall while maintaining low false positives.
 
 # Fraud Detection using Machine Learning
 
