@@ -42,6 +42,10 @@ False Positives: 27
 False Negatives: 358  
 True Positives: 1,285  
 
+Precision: 0.98  
+Recall: 0.78  
+F1 Score: 0.87  
+
 ### Fraud Detection Metrics:
 - Precision: 0.98
 - Recall: 0.78
